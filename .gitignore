@@ -1,0 +1,4 @@
+__pycache__
+logs/*
+./bert/chinese-bert-wwm-ext/*
+./param_model/*
